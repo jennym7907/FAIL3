@@ -4,11 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Jenny Mata's Blog</title>
-	<link href="http://jennym7907.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://jennym7907.github.io/blog"/>
+	<title>Health Project Information</title>
+	<link href="http://jennym7907.github.io/Health-Project/blog/atom.xml" rel="self"/>
+	<link href="http://jennym7907.github.io/Health-Project/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://jennym7907.github.io/blog</id>
+	<id>http://jennym7907.github.io/Health-Project/blog</id>
 	<author>
 		<name>Jenny Mata</name>
 		<email>jennym7907@afsenyc.org</email>
