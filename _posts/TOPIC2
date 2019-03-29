@@ -1,0 +1,18 @@
+---
+layout: post
+title: TOPIC2
+date: 2018-03-28
+---
+TYPE INFORMATION HERE
+ 
+ <style>
+        
+        h2 {
+            color: rgb(28, 128, 128);
+        }  
+        
+        body {
+            background-color: rgb(215, 196, 255);
+        }
+            
+        </style>
